@@ -1,0 +1,9 @@
+@import "reset";
+@import "settings";
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body {
+	background-color: $primary-color;
+	color: $primary-color-text;
+	display: flex;
+}
